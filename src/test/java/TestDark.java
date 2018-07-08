@@ -21,7 +21,7 @@ public class TestDark {
         driver.findElement(By.id("loginBtn")).click();
 //        WebElement dynamicElement = (new WebDriverWait(driver, 10)).until(ExpectedConditions.presenceOfElementLocated(By.className("usermenu_icon")));
 //        Assert.assertNotEquals(driver.findElement(By.linkText("Лучшие альбомы")),0);
-        //driver.close();
+        driver.close();
     }
 
 }
