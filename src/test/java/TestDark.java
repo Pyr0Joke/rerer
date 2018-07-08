@@ -11,14 +11,10 @@ public class TestDark {
 
     FirefoxDriver driver;
 
-    @BeforeMethod
-    public void setUp(){
-        System.setProperty("webdriver.gecko.driver", "D:\\Gecko\\geckodriver.exe");
-        driver = new FirefoxDriver();
-    }
-
     @Test
     public void firstTest(){
+        System.setProperty("webdriver.gecko.driver", "D:\\Gecko\\geckodriver.exe");
+        driver = new FirefoxDriver();
         driver.get("http://dark-world.ru/main/");
         driver.findElement(By.id("Login")).sendKeys("shmel9311@gmail.com");
         driver.findElement(By.id("Password")).sendKeys("458854qwe");
@@ -26,11 +22,6 @@ public class TestDark {
 //        WebElement dynamicElement = (new WebDriverWait(driver, 10)).until(ExpectedConditions.presenceOfElementLocated(By.className("usermenu_icon")));
 //        Assert.assertNotEquals(driver.findElement(By.linkText("Лучшие альбомы")),0);
         //driver.close();
-    }
-
-    @AfterMethod
-    public void tearDown(){
-        driver.quit();
     }
 
 }
