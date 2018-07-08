@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestDark" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-08T15:15:30" hostname="DESKTOP-I6H1FS8" time="6.907">
+<testsuite name="TestDark" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-08T15:46:15" hostname="DESKTOP-I6H1FS8" time="6.516">
   <properties/>
-  <testcase name="firstTest" classname="TestDark" time="6.907"/>
+  <testcase name="firstTest" classname="TestDark" time="6.516"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[1531062930719	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
-1531062934691	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
-1531062934691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
-1531062935873	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dark-world.ru/main/"
-1531062936243	Marionette	DEBUG	Received DOM event "pageshow" for "http://dark-world.ru/main/"
-1531062937350	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+  <system-err><![CDATA[1531064775106	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1531064775390	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1531064775391	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1531064778849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://dark-world.ru/main/"
+1531064779782	Marionette	DEBUG	Received DOM event "pageshow" for "http://dark-world.ru/main/"
+1531064781275	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
 ]]></system-err>
 </testsuite>
