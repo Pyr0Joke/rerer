@@ -32,8 +32,8 @@
       <file leaf-file-name="TestDark.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestDark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="153">
+              <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -444,7 +444,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/User/IdeaProjects/rerer/src/test/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.TestDark">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -629,8 +629,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/User/IdeaProjects/rerer/src/test/resources/testng.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.TestDark" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.TestDark" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/User/IdeaProjects/rerer/src/test/resources/testng.xml" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.TestDark (1)" />
         <item index="3" class="java.lang.String" itemvalue="Application.Dark" />
       </list>
@@ -767,8 +767,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestDark.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="153">
+          <caret line="15" column="10" lean-forward="false" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -13,7 +13,7 @@ public class TestDark {
 
     @Test
     public void firstTest(){
-        System.setProperty("webdriver.gecko.driver", "D:\\Gecko\\geckodriver.exe");
+        //System.setProperty("webdriver.gecko.driver", "D:\\Gecko\\geckodriver.exe");
         driver = new FirefoxDriver();
         driver.get("http://dark-world.ru/main/");
         driver.findElement(By.id("Login")).sendKeys("shmel9311@gmail.com");
